@@ -46,14 +46,6 @@ With a deep passion for data and years of experience in the field, Your Name is 
 - "Python Web Development" - Published December 2015
 - "Data Analysis and Business Modeling with Excel 2013" - Published October 2015
 
-## Work History
-| Company                             | Position                | Dates Employed          | Years |
-| ----------------------------------- | ----------------------- | ----------------------- | ----- |
-| General Dynamics Information Technology | Senior Data Analyst | September 2017 – present | 4     |
-| CSRA                                | Senior Data Analyst     | March 2015 – September 2017 | 2.5   |
-| David Rojas LLC (no longer active)   | Data Scientist          | July 2013 – March 2015  | 1.5   |
-| Infinite Energy                     | Business Intelligence Developer | May 2009 – July 2013    | 4     |
-
 ## Contact Us
 
 To get started or learn more about our data cleaning services, please reach out to us at [david@hedaro.com](mailto:david@hedaro.com) or call us at 786 277 3453.
