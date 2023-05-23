@@ -20,8 +20,6 @@ Hedaro is a premier data cleaning service provider, specializing in sorting, fil
 
 ## Meet the Founder - [David Rojas]
 
-![Bike Study](/assets/img/main.jpeg)
-
 With a deep passion for data and years of experience in the field, Your Name is the driving force behind Hedaro.com. As a skilled data cleaning expert, they have helped numerous businesses harness the power of clean data for informed decision-making. Your Name is committed to delivering top-quality service and exceeding client expectations.
 
 ## Contact Us
