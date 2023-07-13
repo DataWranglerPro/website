@@ -12,7 +12,7 @@ Are you feeling overwhelmed, stuck, or frustrated by a task in Excel? Do you fin
 
 Say goodbye to those daunting Excel hurdles! With our affordable services starting at just $10 per request, you'll get excellent value for your investment. Plus, we pride ourselves on a quick turnaround time of 2 business days, ensuring you receive the results you need promptly.
 
-**As a BONUS:**
+<span style="background-color: yellow;"> **As a BONUS:** </span>
 * We will clean a second Excel file (equal/smaller # of rows) - $10-100 value
 * You get an additional revision - $20 value
 
