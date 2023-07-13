@@ -20,7 +20,7 @@ Hedaro is a premier data cleaning service provider, specializing in sorting, fil
 ## Pricing
 
 - [Clean one Data file under 100 rows - $10](https://link.waveapps.com/m694yv-f5kxxt)
-- Please reach out to me at david@hedaro.com or give me a call at 786-277-3453 to discuss your data files
+- Please reach out to us at david@hedaro.com or give us a call at 786-277-3453 to discuss your data files
 
 ## Meet the Founder - David Rojas
 
