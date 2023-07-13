@@ -34,7 +34,7 @@ If you're not completely satisfied with our service, we'll refund your payment, 
 Packages include a set number of revisions. If you require more revisions than what is included, you can purchase additional revisions by clicking the link below:
 - [Purchase Additional Revisions - $20](https://link.waveapps.com/nuur7m-qh2rhg)
 
- #### Select a Package
+#### Select a Package
 
 - [Select Basic Package](https://link.waveapps.com/m694yv-f5kxxt)
 - [Select Standard Package](https://link.waveapps.com/25tz9t-x448ka)
