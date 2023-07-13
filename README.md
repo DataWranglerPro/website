@@ -19,7 +19,8 @@ Hedaro is a premier data cleaning service provider, specializing in sorting, fil
 
 ## Pricing
 
-- [Click to see my Fiverr Gigs and my prices](https://www.fiverr.com/hedaro2/clean-your-data-files-in-excel-csv-or-txt-format)
+- [Clean one Data file under 100 rows - $10](https://link.waveapps.com/m694yv-f5kxxt)
+- Please reach out to me at david@hedaro.com or give me a call at 786-277-3453 to discuss your data files
 
 ## Meet the Founder - David Rojas
 
@@ -53,9 +54,6 @@ With a deep passion for data and years of experience in the field, David is the 
 
 - What kinds of files do you accept?
 	- Data files in Microsoft Excel, CSV, or TXT format.
-
-- How do you protect sensitive data?
-	- Since all work must be conducted within the secure Fiverr ecosystem, it's important to note that I cannot ensure the protection of data containing sensitive information you deem as such. However, I assure you that I will exert my utmost effort to maintain the confidentiality and privacy of the data
 
 - When does the 2 day Clock start?
 	- As soon as we accept the job, we will have two business days to complete the task for you.
