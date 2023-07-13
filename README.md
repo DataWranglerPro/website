@@ -6,21 +6,21 @@ Hedaro is a premier data cleaning service provider, specializing in sorting, fil
 
 ## Services
 
-**Please contact us before placing an order.**
+<span style="background-color: yellow;"> **Please contact us before placing an order.** </span>
 
 Are you feeling overwhelmed, stuck, or frustrated by a task in Excel? Do you find yourself unsure of where to start or spending too much time on it? Welcome to Hedaro, your ultimate solution for all your Excel needs.
 
 Say goodbye to those daunting Excel hurdles! With our affordable services starting at just $10 per request, you'll get excellent value for your investment. Plus, we pride ourselves on a quick turnaround time of 2 business days, ensuring you receive the results you need promptly.
 
-<span style="background-color: yellow;"> **As a BONUS:** </span>
+<span style="background-color: yellow;"> **As a BONUS:** 
 * We will clean a second Excel file (equal/smaller # of rows) - $10-100 value
 * You get an additional revision - $20 value
 
-That's $30-$120 worth of services for free!
+That's $30-$120 worth of services for free! </span>
 
 Don't let Excel troubles slow you down any longer. Reach out to Hedaro today and experience the joy of getting things done seamlessly and hassle-free.
 
-If you're not completely satisfied with our service, we'll refund your payment, no questions asked.
+<span style="background-color: yellow;"> If you're not completely satisfied with our service, we'll refund your payment, no questions asked. </span>
 
 ## Compare packages
 
