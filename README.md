@@ -6,7 +6,9 @@ Hedaro is a premier data cleaning service provider, specializing in sorting, fil
 
 ## Services
 
-<span style="background-color: yellow;"> **Please contact us before placing an order.** </span>
+<span style="background-color: yellow;"> **Please contact us before placing an order.** </span>  
+**Email - David@hedaro.com**  
+**Phone - 786 277 3453**  
 
 Are you feeling overwhelmed, stuck, or frustrated by a task in Excel? Do you find yourself unsure of where to start or spending too much time on it? Welcome to Hedaro, your ultimate solution for all your Excel needs.
 
@@ -40,7 +42,7 @@ Packages include a set number of revisions. If you require more revisions than w
 - [Select Standard Package](https://link.waveapps.com/25tz9t-x448ka)
 - [Select Premium Package](https://link.waveapps.com/26a8kt-s2e26f)
 
-Please reach out to us at david@hedaro.com or give us a call at 786-277-3453 to discuss your data files.
+<span style="background-color: yellow;"> Please reach out to us at david@hedaro.com to discuss your data files. </span>
 
 ## Meet the Founder - David Rojas
 
