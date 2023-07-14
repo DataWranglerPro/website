@@ -18,7 +18,7 @@ Say goodbye to those daunting Excel hurdles! With our affordable services starti
 <span style="background-color: yellow;"> * We will clean a second Excel file (equal/smaller # of rows) - $10-100 value </span>  
 <span style="background-color: yellow;"> * You get an additional revision - $20 value </span>  
 
-That's $30-$120 worth of services for free! 
+<span style="background-color: yellow;"> That's $30-$120 worth of services for free! </span>   
 
 Don't let Excel troubles slow you down any longer. Reach out to Hedaro today and experience the joy of getting things done seamlessly and hassle-free.
 
