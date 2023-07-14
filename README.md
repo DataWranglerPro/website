@@ -14,11 +14,11 @@ Are you feeling overwhelmed, stuck, or frustrated by a task in Excel? Do you fin
 
 Say goodbye to those daunting Excel hurdles! With our affordable services starting at just $10 per request, you'll get excellent value for your investment. Plus, we pride ourselves on a quick turnaround time of 2 business days, ensuring you receive the results you need promptly.
 
-<span style="background-color: yellow;"> **As a BONUS:** 
-* We will clean a second Excel file (equal/smaller # of rows) - $10-100 value
-* You get an additional revision - $20 value
+<span style="background-color: yellow;"> **As a BONUS:** </span>  
+<span style="background-color: yellow;"> * We will clean a second Excel file (equal/smaller # of rows) - $10-100 value </span>  
+<span style="background-color: yellow;"> * You get an additional revision - $20 value </span>  
 
-That's $30-$120 worth of services for free! </span>
+That's $30-$120 worth of services for free! 
 
 Don't let Excel troubles slow you down any longer. Reach out to Hedaro today and experience the joy of getting things done seamlessly and hassle-free.
 
