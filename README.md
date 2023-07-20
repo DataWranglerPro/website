@@ -92,5 +92,14 @@ With a deep passion for data and years of experience in the field, David is the 
 - How do I know how many data files I have?
 	- If you have an Excel file, we count every tab as a data file. This is mainly to prevent people from sending me files with a very large number of tabs in one Excel file. A file with a .TXT or .CSV extension will count as one data file.
 
+## Reviews
+_I am not super great behind a computer but have always tried to do things myself to save money. When I can't figure things out,   
+I've always just avoided them to avoid the annoyance of having to learn. Eventually you get to the point where you hire someone   
+else to do something for you. That is when David Rojas came into my picture. I asked him to do a task for me that I wasn't 100%   
+sure how to do, and even if I figured it out, it probably would have taken me 3-4 days to complete it. David took my excel task,   
+and completely finished it in less than 10 minutes. It was totally worth my time and money spent! From now on I will always be   
+calling David to get these tasks done for me. I would highly recommend him for his knowledgeable skills and quick task completions.  
+Thank you so much!_ - **Mikaela R.**  
+
 ---
 Thank you for considering Hedaro.com for your data cleaning needs.
